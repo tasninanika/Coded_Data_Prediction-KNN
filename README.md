@@ -1,4 +1,4 @@
-# 🤖 K-Nearest Neighbors (KNN) Classifier
+# 🤖 Coded Data Prediction using K-Nearest Neighbors (KNN) Classifier
 
 This project demonstrates how the **K-Nearest Neighbors (KNN)** algorithm can be used to build a simple and effective machine learning classifier. KNN is an easy-to-understand and powerful algorithm used for **classification** and **regression** problems.
 
